@@ -23,8 +23,8 @@
 ---
 
 ### 🌐 My Links
-- 🔗 [Telegram](https://t.me/BotirovAbdulaziz1)
-- 💼 [GitHub Projects](https://github.com/abdulazizBotirov2012)
+- 🔗 [Telegram](https://t.me/Abdulaziz1272a)
+- 💼 [GitHub Projects](https://github.com/abdulaziz1272)
 - 🎮 YouTube: **Danger Azi**
 
   ### 🥋 Codewars Profile
@@ -53,12 +53,12 @@
 ---
 
 ### 🌐 My Links
-- 🔗 [Telegram](https://t.me/BotirovAbdulaziz1)
-- 💼 [GitHub Projects](https://github.com/abdulazizBotirov2012)
-- 🎮 YouTube: **Danger Azi**
+- 🔗 [Telegram](https://t.me/Abdulaziz1272a)
+- 💼 [GitHub Projects](https://github.com/abdulaziz1272)
+- 🎮 YouTube: **None**
 
   ### 🥋 Codewars Profile
-[![Codewars]((https://www.codewars.com/users/abdulaziz1272))
+![Codewars]((https://www.codewars.com/users/abdulaziz1272))
 
 ---
 
@@ -78,9 +78,9 @@
 
 
 ### 🏆 GitHub Stats
-![Abdulaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulazizBotirov2012&show_icons=true&theme=tokyonight)
+![Abdulaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulaziz1272&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizBotirov2012&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulaziz1272&layout=compact&theme=tokyonight)
 
 ---
 
@@ -89,7 +89,7 @@
 
 ---
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Abdulaziz-Botirov&theme=darkhub)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Abdulaziz-Abdurashidov&theme=darkhub)
 
 
 
@@ -105,9 +105,9 @@
 
 
 ### 🏆 GitHub Stats
-![Abdulaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulazizBotirov2012&show_icons=true&theme=tokyonight)
+![Abdulaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulaziz1272&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizBotirov2012&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulaziz1272&layout=compact&theme=tokyonight)
 
 ---
 
