@@ -28,7 +28,7 @@
 - 🎮 YouTube: **Danger Azi**
 
   ### 🥋 Codewars Profile
-[![Codewars](https://www.codewars.com/users/abdulazizBotirov2012/badges/large)]## Hi there 👋
+[![Codewars](https://www.codewars.com/users/abdulaziz1272/badges/large)]## Hi there 👋
 
 
 
