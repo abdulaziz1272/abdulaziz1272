@@ -16,7 +16,7 @@
 
 ### 🛠 My Skills
 - 💻 HTML, CSS, JavaScript
-- ⚛️ React,vue (beginner)
+- ⚛️ React,vue (X-pro-max)
 - 🎨 Web Design
 - 🧩 Problem Solving
 
