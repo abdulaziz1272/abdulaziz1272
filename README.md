@@ -58,7 +58,7 @@
 - 🎮 YouTube: **None**
 
   ### 🥋 Codewars Profile
-![Codewars]((https://www.codewars.com/users/abdulaziz1272))
+![Codewars]((https://www.codewars.com/users/abdulaziz1272/badges/large))
 
 ---
 
