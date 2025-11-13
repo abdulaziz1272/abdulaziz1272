@@ -52,15 +52,7 @@
 
 ---
 
-### 🌐 My Links
-- 🔗 [Telegram](https://t.me/Abdulaziz1272a)
-- 💼 [GitHub Projects](https://github.com/abdulaziz1272)
-- 🎮 YouTube: **None**
 
-  ### 🥋 Codewars Profile
-![Codewars]((https://www.codewars.com/users/abdulaziz1272/badges/large))
-
----
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Abdulaziz-Botirov&theme=darkhub)
 
